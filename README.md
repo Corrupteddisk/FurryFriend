@@ -5,7 +5,7 @@
 
 ![WhatsApp Image 2024-02-04 at 8 12 49 AM (1) (1)](https://github.com/Sayan044/FurrywaleFriend/assets/108444636/0c5616d5-29a2-40db-afbf-227430c5fa11)
 
-## Youtube V
+## YouTube Video
 
 <b><a align="center" href="https://youtu.be/Upp28HLu4Go">Watch Demo Video</a></b><br/>
 
@@ -191,3 +191,12 @@ Include any disclaimers or important notes about your project.
 ```
 
 Please replace `<repository-url>` and `<project-directory>` with your actual repository URL and project directory. Additionally, add specific commands for running your project in the "Run the Project" section under "Getting Started."
+
+
+
+
+## Contributors
+
+<h1 align="center">
+ <b>Made by team CheatSheet with ❤️ </h1>
+</h1>
