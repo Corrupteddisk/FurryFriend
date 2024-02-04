@@ -21,7 +21,7 @@
 
 ## 🚀 Workflow
 
-![Screenshot 2024-02-04 043052](https://github.com/Sayan044/FurrywaleFriend/assets/108444636/f782e146-de71-44e8-b9bf-27eb19d750db)
+![WhatsApp Image 2024-02-04 at 12 48 25 PM](https://github.com/Corrupteddisk/FurryFriend/assets/108444636/c82c5df6-f528-409f-b9c4-da7578b806cc)
 
 
 ## ⚙️Use Case:
