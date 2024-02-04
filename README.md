@@ -1,4 +1,4 @@
-## <div div align="center">Diversion 2k24 - FurrywaleFriends </div>
+## <div div align="center">Diversion 2k24 - Furry Friends </div>
 
 
 <div align="center" style="width: 50%;">
