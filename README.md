@@ -177,6 +177,13 @@ Include any necessary information on how to use or deploy your project.
 
 Provide guidelines for others who might want to contribute to project.
 
+## Contributes
+
+<h1 align="center">
+ <b>Made by team CheatSheet with ❤️
+</h1>
+ 
+
 ## Acknowledgments
 
 If there are any people or resources want to acknowledge, include them here.
@@ -195,8 +202,6 @@ Please replace `<repository-url>` and `<project-directory>` with your actual rep
 
 
 
-## Contributors
 
-<h1 align="center">
- <b>Made by team CheatSheet with ❤️ </h1>
-</h1>
+
+
