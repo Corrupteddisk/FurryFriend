@@ -177,7 +177,7 @@ Include any necessary information on how to use or deploy your project.
 
 Provide guidelines for others who might want to contribute to project.
 
-## Contributes
+## Contributors
 
 <h1 align="center">
  <b>Made by team CheatSheet with ❤️
