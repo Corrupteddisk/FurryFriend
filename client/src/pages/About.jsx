@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import { Analytics } from "../Components/Analytics";
+import { Analytics } from "../components/Analytics";
 
 export const About = () => {
   return (
@@ -10,28 +10,19 @@ export const About = () => {
             <div className="hero-content">
               {/* <p>We care to cure your Health</p> */}
 
-              <h1>Why Choose Us? </h1>
+          
+              <h1>About Us</h1>
               <p>
-                Expertise: Our team consists of experienced professionals who
-                are passionate about staying up-to-date with the wellbeing of doemestic and stray animals.
+                Welcome to Furry Friends, where our passion for the well-being of all animals drives our mission. At the heart of our endeavors is a commitment to enhancing the lives of both domestic and stray animals alike. Our unique approach includes a cutting-edge treatment portal, secured by MongoDB, ensuring confidential and personalized care for wounded animals while prioritizing data privacy.
               </p>
               <p>
-                Customization: We understand that every business is unique.
-                Thats why we create solutions that are tailored to your specific
-                needs and goals.
+                Dedicated to creating loving homes, our adoption platform connects compassionate individuals with stray animals seeking a second chance at happiness. Through our donation and food portal, we empower users to contribute directly to the nourishment and sustenance of these furry friends, leaving no paw unfed.
               </p>
               <p>
-                Customer-Centric Approach: We prioritize your satisfaction and
-                provide top-notch support to address your concern about animals.
+                Discover a range of shelter options, from adoption services to government shelters, as we strive to provide every animal with a safe and loving home. Our user-friendly complaint section empowers individuals to report instances of animal cruelty promptly, championing the cause of those who cannot speak for themselves.
               </p>
               <p>
-                Affordability: We offer competitive pricing without compromising
-                on the quality of our services.
-              </p>
-              <p>
-                Reliability: Count on us to be there when you need us. We're
-                committed to ensuring your IT environment is reliable and
-                available 24/7.
+                Join us at Furry Friends, where compassion meets action, and together, we nurture lives, one paw at a time.
               </p>
               <div className="btn btn-group">
                 <NavLink to="/contact">
@@ -42,7 +33,7 @@ export const About = () => {
             </div>
             <div className="hero-image">
               <img
-                src="/images/about.png"
+                src="/images/about.jpeg"
                 alt="coding buddies "
                 width="400"
                 height="500"

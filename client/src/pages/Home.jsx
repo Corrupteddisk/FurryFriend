@@ -8,15 +8,15 @@ export const Home = () => {
           <div className="container grid grid-two-cols">
             <div className="hero-content">
               <p>We are the World Pet Care Site</p>
-              <h1>Welcome to HappyPaws</h1>
+              <h1>Welcome to Furry Friends</h1>
               <p>
-              Welcome to HappyPaws, your go-to platform for the well-being of domestic animals. Our MongoDB-powered treatment portal ensures confidential care for wounded animals, while our adoption and donation sections provide opportunities to give strays a second chance and contribute to their well-being. Explore shelter options and report animal cruelty swiftly through our user-friendly interface. PawsNWellness: Nurturing Lives, One Paw at a Time.
+              Welcome to Furry Friends, your go-to platform for the well-being of domestic animals. Our MongoDB-powered treatment portal ensures confidential care for wounded animals, while our adoption and donation sections provide opportunities to give strays a second chance and contribute to their well-being. Explore shelter options and report animal cruelty swiftly through our user-friendly interface. PawsNWellness: Nurturing Lives, One Paw at a Time.
               </p>
               <div className="btn btn-group">
                 <a href="/contact">
                   <button className="btn">connect now</button>
                 </a>
-                <a href="/services">
+                <a href="/about">
                   <button className="btn secondary-btn">learn more</button>
                 </a>
               </div>
@@ -25,7 +25,7 @@ export const Home = () => {
             {/* hero images  */}
             <div className="hero-image">
               <img
-                src="/images/home.png"
+                src="/images/home.jpeg"
                 alt="coding together"
                 width="400"
                 height="500"
@@ -44,7 +44,7 @@ export const Home = () => {
           {/* hero images  */}
           <div className="hero-image">
             <img
-              src="/images/design.png"
+              src="/images/design.jpeg"
               alt="coding together"
               width="400"
               height="500"
@@ -55,7 +55,7 @@ export const Home = () => {
             <p>We are here to help you</p>
             <h1>Get Started Today</h1>
             <p>
-            Welcome to HappyPaws!, your go-to platform for the well-being of domestic animals. Our MongoDB-powered treatment portal ensures confidential care for wounded animals, while our adoption and donation sections provide opportunities to give strays a second chance and contribute to their well-being. Explore shelter options and report animal cruelty swiftly through our user-friendly interface. PawsNWellness: Nurturing Lives, One Paw at a Time.
+            Welcome to Furry Friends!, your go-to platform for the well-being of domestic animals. Our MongoDB-powered treatment portal ensures confidential care for wounded animals, while our adoption and donation sections provide opportunities to give strays a second chance and contribute to their well-being. Explore shelter options and report animal cruelty swiftly through our user-friendly interface. PawsNWellness: Nurturing Lives, One Paw at a Time.
             </p>
             <div className="btn btn-group">
               <a href="/contact">
